@@ -7,7 +7,7 @@ package dam_ed04_actividad;
 /**
  * Esta clase alberga el metodo principal de la aplicacion y realiza una retirada y un ingreso en un cuenta bancaria
  * @author paseg
- * @version 1.0
+ * @version 2.0
  */
 public class Main {
 
